@@ -4,7 +4,7 @@ import hashlib
 import math
 
 LOCAL_EMBEDDING_MODEL = "all-MiniLM-L6-v2"
-OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
+OPENAI_EMBEDDING_MODEL = "text-embedding-3-large"
 EMBEDDING_PROVIDER_ENV = "EMBEDDING_PROVIDER"
 
 
