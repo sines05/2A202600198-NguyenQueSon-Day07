@@ -1,6 +1,7 @@
 # Báo Cáo Lab 7: Embedding & Vector Store
 
 **Họ tên:** Nguyễn Quế Sơn
+**Nhóm:** C401-D6
 **MSSV:** 2A202600198
 **Ngày:** 2026-04-10
 
